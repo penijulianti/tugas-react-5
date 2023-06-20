@@ -1,0 +1,64 @@
+.head{
+    font-size: 60px;
+    color: #ff96ad
+}
+.contain{
+    display:flex;
+    flex-direction:row;
+    padding: 20px;
+    margin:5%;
+    gap:15px;
+    color: beige;
+}
+button{
+    margin: 15px;
+    width: 100px;
+    height: 25px;
+}
+button:hover{
+    background: #ff96ad;
+    box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad,0 0 200px #ff96ad;
+}
+.add{
+    height: 380px;
+    width: 200;
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding: 5;
+    margin-bottom: 15;
+    margin-left:15;
+    color: white
+}
+.edit{
+    height: 330px;
+    width: 320px;
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding: 5;
+    margin-bottom: 15;
+    margin-left:10;
+    color: white
+}
+.del{
+    height: 200px;
+    width: 300px;
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-left:10px;
+    color: white
+}
+input{
+    margin-left: 15px;
+}
+input:hover{
+    background: powderblue;
+    box-shadow: 0 0 5px powderblue, 0 0 25px powderblue, 0 0 50px powderblue,0 0 200px powderblue;
+}
+h3{
+    margin-left: 15px;
+}
+h1{
+    margin-left: 15px;
+}
